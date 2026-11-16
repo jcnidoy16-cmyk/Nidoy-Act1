@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "npm --prefix campus-chatbotver2 run dev"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "lucide-react": "^1.70.0",
+    "tailwindcss": "^4.3.5"
+  }
+}
